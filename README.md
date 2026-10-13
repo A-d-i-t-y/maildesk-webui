@@ -1,6 +1,5 @@
 <p align="center">
     <a href="https://stalw.art">
-    <img src="./img/logo-red.svg" height="150">
     </a>
 </p>
 
