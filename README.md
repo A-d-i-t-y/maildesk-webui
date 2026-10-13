@@ -35,10 +35,3 @@ Host the zip at an HTTPS URL and set it as the web application `resourceUrl` on 
 | `VITE_API_BASE_URL` | Server URL used for API requests during development. Leave empty in production builds. |
 | `VITE_OAUTH_SCOPES` | Optional override of the OAuth scopes requested at login. |
 
-## License and attribution
-
-This application is a modified version of an open-source WebUI distributed under the
-GNU Affero General Public License v3.0 (AGPL-3.0). The original copyright and license
-notices in the source files and the `LICENSES/` directory must be kept intact.
-If you make this application available to users over a network, you must offer them
-the corresponding source code of your modified version.
