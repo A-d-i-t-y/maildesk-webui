@@ -20,7 +20,7 @@ import { loadLogoOnce } from './lib/logoCache';
 
 (() => {
   try {
-    const persisted = localStorage.getItem('stalwart-ui');
+    const persisted = localStorage.getItem('maildesk-ui');
     if (persisted) {
       const parsed = JSON.parse(persisted);
       const theme = parsed?.state?.theme;

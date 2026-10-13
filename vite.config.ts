@@ -6,11 +6,11 @@ import tailwindcss from '@tailwindcss/vite'
 import path from 'path'
 import { version } from './package.json' with { type: 'json' }
 
-// Stalwart server jisse dev me connect karna hai (apna URL yahan likho).
-const STALWART_URL = 'https://mailserver.thejerk.in'
+// Mail server to connect to in dev (set your URL here).
+const SERVER_URL = 'https://mailserver.thejerk.in'
 
 const proxyTo = {
-  target: STALWART_URL,
+  target: SERVER_URL,
   changeOrigin: true,
   secure: true,
 }

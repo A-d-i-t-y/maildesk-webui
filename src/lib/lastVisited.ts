@@ -13,7 +13,7 @@ import {
 } from '@/lib/layout';
 import type { Layout, Schema } from '@/types/schema';
 
-const STORAGE_KEY = 'stalwart-last-visited';
+const STORAGE_KEY = 'maildesk-last-visited';
 
 function readAll(): Record<string, unknown> {
   try {

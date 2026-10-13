@@ -117,7 +117,7 @@ export const useAuthStore = create<AuthState>()(
       },
     }),
     {
-      name: 'stalwart-auth',
+      name: 'maildesk-auth',
       storage: {
         getItem: (name) => {
           const value = sessionStorage.getItem(name);

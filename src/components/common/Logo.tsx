@@ -12,7 +12,7 @@ export function DefaultLogo() {
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 236 64"
       role="img"
-      aria-label={t('logo.stalwartAlt', 'Maildesk logo')}
+      aria-label={t('logo.maildeskAlt', 'Maildesk logo')}
       className="h-8 w-auto max-w-[320px]"
     >
       <defs>

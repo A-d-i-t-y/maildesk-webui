@@ -10,7 +10,7 @@ const SIEVEPAD_FORMAT_VERSION = 1;
 const SIEVEPAD_MAX_NAME_LENGTH = 80;
 const SIEVEPAD_MAIN_SCRIPT = 'main';
 const BASE64_CHUNK_SIZE = 0x8000;
-const WARNING_DISMISSED_KEY = 'stalwart-sievepad-warning-dismissed';
+const WARNING_DISMISSED_KEY = 'maildesk-sievepad-warning-dismissed';
 
 const SIEVE_SCRIPT_FIELDS: Record<string, string> = {
   'x:SieveSystemScript': 'contents',

@@ -11,7 +11,7 @@ import i18n from '@/i18n';
 
 const SCOPES = import.meta.env.VITE_OAUTH_SCOPES as string | undefined;
 
-const SESSION_PREFIX = 'stalwart-oauth-';
+const SESSION_PREFIX = 'maildesk-oauth-';
 
 interface DiscoveryResponse {
   authorization_endpoint: string;

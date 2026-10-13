@@ -1,8 +1,8 @@
 {
-  "name": "stalwart-webui",
+  "name": "maildesk-webui",
   "private": true,
   "version": "1.0.11",
-  "description": "Stalwart WebUI",
+  "description": "Maildesk WebUI",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -61,7 +61,7 @@ export const useUIStore = create<UIState>()(
       },
     }),
     {
-      name: 'stalwart-ui',
+      name: 'maildesk-ui',
       partialize: (state) => ({
         theme: state.theme,
       }),

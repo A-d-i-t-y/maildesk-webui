@@ -299,7 +299,7 @@
   },
   "logo": {
     "alt": "Logo",
-    "stalwartAlt": "Maildesk Logo"
+    "maildeskAlt": "Maildesk Logo"
   },
   "logout": "Logout",
   "version": {
